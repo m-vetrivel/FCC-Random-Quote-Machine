@@ -1,0 +1,5 @@
+@import "tailwindcss";
+body,
+button {
+  transition: background-color 1s ease-in-out, color 1s ease-in-out;
+}
